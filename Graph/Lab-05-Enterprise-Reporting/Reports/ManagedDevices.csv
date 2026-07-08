@@ -1,0 +1,6 @@
+"DeviceName","OperatingSystem","OSVersion","ComplianceState","ManagementAgent","UserPrincipalName","LastSyncDateTime"
+"DESKTOP-QLU5D1R","Windows","10.0.26200.6584","noncompliant","mdm","OniPedro@CorpLab693.onmicrosoft.com","6/28/2026 10:38:04 PM"
+"TX-73513","Windows","10.0.26200.8655","compliant","mdm","marks@CorpLab693.onmicrosoft.com","7/7/2026 05:12:26 PM"
+"OniPedro_AndroidForWork_6/26/2026_6:17 PM","Android","12.0","compliant","mdm","OniPedro@CorpLab693.onmicrosoft.com","6/28/2026 11:25:45 PM"
+"EyePhone","iOS","26.5.2","compliant","mdm","OniPedro@CorpLab693.onmicrosoft.com","7/8/2026 12:05:37 PM"
+"TX-CL11","Windows","10.0.26200.6584","noncompliant","mdm","OniPedro@CorpLab693.onmicrosoft.com","6/28/2026 10:30:29 PM"
