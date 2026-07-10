@@ -47,32 +47,5 @@ See the **Screenshots** folder.
 
 ## ESP Workflow
 
-
-User powers on device
-        │
-        ▼
-Autopilot identifies device
-        │
-        ▼
-User signs in
-        │
-        ▼
-Enrollment Status Page appears
-        │
-        ▼
-Device joins Entra ID
-        │
-        ▼
-Intune enrollment begins
-        │
-        ▼
-Required apps install
-        │
-        ▼
-Security policies apply
-        │
-        ▼
-Compliance policies evaluate
-        │
-        ▼
-Desktop becomes available
+User powers on device -->Autopilot identifies device --> User signs in --> Enrollment Status Page appears --> Device joins Entra ID --> Intune enrollment begins --> Required apps install --> Security policies apply -->  Compliance policies evaluate --> Desktop becomes available
+    
