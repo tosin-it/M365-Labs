@@ -1,0 +1,4 @@
+"SkuPartNumber","ConsumedUnits","PrepaidUnits"
+"ENTERPRISEPREMIUM","7","Microsoft.Graph.PowerShell.Models.MicrosoftGraphLicenseUnitsDetail"
+"SPE_E5","3","Microsoft.Graph.PowerShell.Models.MicrosoftGraphLicenseUnitsDetail"
+"Microsoft_Intune_Advanced_Analytics_for_FLW","1","Microsoft.Graph.PowerShell.Models.MicrosoftGraphLicenseUnitsDetail"
