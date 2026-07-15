@@ -27,14 +27,19 @@ The portfolio focuses on practical implementation rather than theoretical exerci
 
 ---
 
-## Quick Navigation
+## Executive Summary
 
-- [Technologies](#technologies)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Portfolio Statistics](#portfolio-statistics)
-- [Repository Structure](#repository-structure)
-- [Key Projects](#key-projects)
-- [About](#about)
+This portfolio demonstrates hands-on experience building and managing a Microsoft 365 enterprise environment using Microsoft 365 E5.
+
+### Highlights
+
+- 34 enterprise Microsoft 365 labs
+- Microsoft Intune endpoint management
+- Microsoft Entra ID identity administration
+- Microsoft Graph PowerShell automation
+- Exchange Online administration
+- Windows Autopilot deployment
+- Enterprise reporting and HTML dashboards
 
 ## 🛠️ Technologies
 
