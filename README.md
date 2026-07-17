@@ -1,19 +1,4 @@
 # Microsoft 365 Engineering Portfolio
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-E5-blue?logo=microsoft)
-
-![Intune](https://img.shields.io/badge/Microsoft-Intune-0078D4?logo=microsoft)
-
-![Entra ID](https://img.shields.io/badge/Microsoft-Entra_ID-0078D4?logo=microsoft)
-
-![Microsoft Graph](https://img.shields.io/badge/Microsoft-Graph-512BD4?logo=microsoft)
-
-![Exchange Online](https://img.shields.io/badge/Exchange-Online-0078D4)
-
-![Windows Autopilot](https://img.shields.io/badge/Windows-Autopilot-0078D4)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?logo=powershell)
-
-![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows11)
 
 Enterprise Microsoft 365 engineering portfolio demonstrating hands-on experience with Microsoft Intune, Microsoft Entra ID, Exchange Online, Windows Autopilot, Microsoft Graph PowerShell, and enterprise endpoint management.
 
